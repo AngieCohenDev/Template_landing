@@ -5,10 +5,7 @@ export const Footer = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2024 Claro Argentina.    
-            <a href='http://www.templatewire.com' rel='nofollow'>
-                Todos los derechos reservados
-            </a>
+            &copy; 2024 Claro Argentina. <a> Todos los derechos reservados </a>    
           </p>
         </div>
       </div>
