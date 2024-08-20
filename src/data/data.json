@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "La red móvil más rápida de Argentina",
+        "paragraph": "Descubre por qué somos la compañía elegida por todos los argentinos y experimenta la calidad, innovación y compromiso que nos definen."
+
+    },
+    "About": {
+        "paragraph": "Desde su fundación, Claro Argentina ha estado a la vanguardia de la tecnología, adoptando las últimas innovaciones para garantizar que sus usuarios disfruten de un servicio confiable y eficiente. Nos enorgullecemos de nuestra capacidad para adaptarnos a las necesidades cambiantes de nuestros usuarios, proporcionando no solo productos y servicios de alta calidad, sino también un soporte al cliente excepcional. ",
+        "Why": [
+            "Cobertura Extensa",
+            "Tecnología de Vanguardia",
+            "Variedad de Servicios",
+            "Planes Flexibles"
+        ],
+        "Why2": [
+            "Atención al Cliente Excepcional",
+            "Beneficios Exclusivos",
+            "Compromiso con la Calidad",
+            "Portabilidad"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Planes para tu casa",
+            "text": "Disfruta de planes de internet de alta velocidad y televisión por cable con cobertura confiable y una experiencia de entretenimiento completa para toda la familia."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Planes para tu celu",
+            "text": "Elige entre una variedad de planes móviles que se ajustan a tu estilo de vida, con datos, llamadas y mensajes ilimitados."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Packs de internet",
+            "text": "Amplía tu conexión con nuestros packs de internet adicionales, diseñados para ofrecerte más datos y velocidad para satisfacer tus demandas de navegación y streaming."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Internet corporativo",
+            "text": "Soluciones de internet robustas y seguras para empresas, garantizando una conexión estable y un rendimiento óptimo."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Roaming",
+            "text": "Mantente conectado mientras viajas con nuestro servicio de roaming, que te permite utilizar tu móvil en el extranjero con tarifas competitivas y cobertura global."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Portabilidad",
+            "text": "ambia a Claro sin complicaciones con nuestro servicio de portabilidad, conservando tu número actual y disfrutando de todos los beneficios de nuestros planes."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Cobertura Nacional Amplia",
+            "text": "Nuestra red de telecomunicaciones se extiende por todo el país, garantizando una conexión fiable incluso en las alejadas."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Tecnología Avanzada",
+            "text": "Utilizamos tecnología de última generación, incluyendo redes 4G y 5G, para ofrecer servicios de alta velocidad y rendimiento."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Variedad de Servicios",
+            "text": "Ofrecemos un portafolio integral que incluye telefonía móvil, internet de alta velocidad y televisión por cable."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Atención al Cliente Dedicada",
+            "text": " Nuestro equipo de soporte está disponible para resolver tus consultas y problemas con rapidez y eficiencia."
+        }
+    ]
+}
